@@ -1,0 +1,24 @@
+.slide-container {
+  width: 20em;
+  margin: auto;
+  /* background: #ffffff; */
+}
+.each-slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 300px;
+
+  border-radius: 4px;
+  width: 100%;
+}
+
+.slide_img {
+  border: 1px solid green;
+  border-radius: 4px;
+  padding: 5px;
+  width: 50%;
+}

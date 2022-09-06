@@ -1,0 +1,10 @@
+.admin_widget {
+  border-radius: 10%;
+  background-color: #ffffff;
+  opacity: 70%;
+
+  padding-bottom: 20em;
+}
+.list_btn:hover {
+  color: #308335;
+}

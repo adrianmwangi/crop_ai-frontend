@@ -1,0 +1,14 @@
+.login_form {
+  /* border: 1em solid yellow; */
+  padding: 5rem;
+  background: rgba(55, 81, 5, 0.51);
+  margin-left: 7em;
+}
+
+.form_button button {
+  padding: 1em;
+  border-radius: 20px;
+  width: 15em;
+  background: #308335;
+  color: #ffffff;
+}
